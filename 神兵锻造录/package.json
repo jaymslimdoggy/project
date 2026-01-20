@@ -1,0 +1,15 @@
+
+{
+  "name": "shingbing-forge-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A deep forge and build game",
+  "scripts": {
+    "dev": "vite",
+    "build": "echo 'Deploying Static Site'",
+    "start": "serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
